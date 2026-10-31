@@ -1,0 +1,22 @@
+{
+  "wheel_id": 561,
+  "structure": "umbrella",
+  "slug": "noosafencing-106",
+  "project": "fencing-contractors-noosa-quotes-explained-41758f20334531de0324",
+  "parent_t1_ref": "noosafencing-152",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa quotes explained",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-noosa-quotes-explained-41758f20334531de0324/",
+  "tier": "T2",
+  "writeback_nonce": "de9cc6de06f62cd7",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-noosa-myths-4ee027766c40808033db7aa6b7092b4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
